@@ -1,0 +1,9 @@
+site_name: graphsync
+site_description: Joint Blind Time-Offset and Unknown Graph-Topology Synchronization
+repo_url: https://github.com/lucher777/graphsync
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Tutorial: tutorial.md
+  - API Reference: api.md
